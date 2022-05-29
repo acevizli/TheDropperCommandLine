@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.Properties.Resources.resources
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.AssemblyInfo.cs
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TheDropperCommandLine\bin\Release\netframework4.8\TheDropperCommandLine.exe.config
+C:\Users\hp\Desktop\TheDropperCommandLine\bin\Release\netframework4.8\TheDropperCommandLine.exe
+C:\Users\hp\Desktop\TheDropperCommandLine\bin\Release\netframework4.8\TheDropperCommandLine.pdb
+C:\Users\hp\Desktop\TheDropperCommandLine\bin\Release\netframework4.8\System.CodeDom.dll
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.csproj.CopyComplete
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.exe
+C:\Users\hp\Desktop\TheDropperCommandLine\obj\Release\netframework4.8\TheDropperCommandLine.pdb

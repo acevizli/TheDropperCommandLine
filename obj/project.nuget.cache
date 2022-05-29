@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZ5d58Yuh0qRN3lfxsUL79TZfmM8waK/vjr8GUWDb7PF/5ugGvFp3qIIb6VZcZk7kE3YQ7D46HY5gv/XGT4j7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\TheDropperCommandLine\\TheDropperCommandLine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
